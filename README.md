@@ -23,6 +23,3 @@ Interactive slicers (Date, Location, Channel, Segment)
 
 Clean and business-ready dashboard layout
 
-📎 View Dashboard (Excel)
-
-👉 [Click Here to Download]
