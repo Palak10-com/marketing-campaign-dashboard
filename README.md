@@ -1,7 +1,7 @@
-# marketing-campaign-dashboard
+# Marketing-campaign-dashboard
 Excel dashboard analyzing marketing campaign performance with KPIs, ROI, CPA, pivot tables and slicers.
 
-🔧 Tools Used
+# Tools Used
 
 Microsoft Excel
 
@@ -13,13 +13,13 @@ Slicers
 
 Custom Formatting & Formulas
 
-✨ Key Features
+# Key Features
 
 Dynamic KPI Cards (ROI %, CPA, Conversions)
 
-Channel-wise & Campaign-wise performance visualizations
+Channel wise & Campaign wise performance visualizations
 
 Interactive slicers (Date, Location, Channel, Segment)
 
-Clean and business-ready dashboard layout
+Clean and business ready dashboard layout
 
