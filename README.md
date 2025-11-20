@@ -6,10 +6,15 @@ Excel dashboard analyzing marketing campaign performance with KPIs, ROI, CPA, pi
 # Microsoft Excel
 
 Pivot Tables & Pivot Charts
+
 KPI Cards
+
 Slicers
+
 Custom Formatting & Formulas
+
 Dynamic chart formatting
+
 Data cleaning & transformation
 
 
