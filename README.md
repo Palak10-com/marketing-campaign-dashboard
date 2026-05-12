@@ -1,9 +1,9 @@
 # Marketing-campaign-dashboard
-Excel dashboard analyzing marketing campaign performance with KPIs, ROI, CPA, pivot tables and slicers.
+Excel dashboard analyzing marketing campaign performance with KPIs, ROI, CPA, pivot tables and slicers
 
-# Tools Used
+# Tools used
 
-# Microsoft Excel
+Microsoft excel
 
 Pivot Tables & Pivot Charts
 
